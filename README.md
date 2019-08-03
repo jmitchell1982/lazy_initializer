@@ -2,6 +2,8 @@
 
 A small, header-only C++ class for a lazy initializer.
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jmitchell1982/lazy_initializer/master/LICENSE)
+
 ## Features
 
 - Initialization deferred until first usage or direct value assignment
